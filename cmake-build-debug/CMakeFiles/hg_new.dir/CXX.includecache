@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/daredevil/CLionProjects/hg_new/src/hg.h
+libs.h
+/Users/daredevil/CLionProjects/hg_new/src/libs.h
+
+/Users/daredevil/CLionProjects/hg_new/src/libs.h
+iostream
+-
+vector
+-
+map
+-
+set
+-
+deque
+-
+fstream
+-
+sstream
+-
+list
+-
+
+/Users/daredevil/CLionProjects/hg_new/src/partition.cpp
+partition.h
+/Users/daredevil/CLionProjects/hg_new/src/partition.h
+
+/Users/daredevil/CLionProjects/hg_new/src/partition.h
+hg.h
+/Users/daredevil/CLionProjects/hg_new/src/hg.h
+

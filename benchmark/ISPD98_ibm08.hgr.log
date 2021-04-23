@@ -1,0 +1,122 @@
+Initial partition done: 25654 verteces left and 25655 vertices right
+Epoch #0
+Left: 25654
+Right: 25655
+Solution cost: 32326
+Balance: 0
+
+Epoch #1
+Left: 25654
+Right: 25655
+Solution cost: 12772
+Balance: 0
+
+Epoch #2
+Left: 25654
+Right: 25655
+Solution cost: 10583
+Balance: 0
+
+Epoch #3
+Left: 25654
+Right: 25655
+Solution cost: 9872
+Balance: 0
+
+Epoch #4
+Left: 25654
+Right: 25655
+Solution cost: 9594
+Balance: 0
+
+Epoch #5
+Left: 25654
+Right: 25655
+Solution cost: 9519
+Balance: 0
+
+Epoch #6
+Left: 25654
+Right: 25655
+Solution cost: 9491
+Balance: 0
+
+Epoch #7
+Left: 25654
+Right: 25655
+Solution cost: 9471
+Balance: 0
+
+Epoch #8
+Left: 25654
+Right: 25655
+Solution cost: 9458
+Balance: 0
+
+Epoch #9
+Left: 25654
+Right: 25655
+Solution cost: 9452
+Balance: 0
+
+Epoch #10
+Left: 25654
+Right: 25655
+Solution cost: 9448
+Balance: 0
+
+Epoch #11
+Left: 25654
+Right: 25655
+Solution cost: 9433
+Balance: 0
+
+Epoch #12
+Left: 25654
+Right: 25655
+Solution cost: 9420
+Balance: 0
+
+Epoch #13
+Left: 25654
+Right: 25655
+Solution cost: 9412
+Balance: 0
+
+Epoch #14
+Left: 25654
+Right: 25655
+Solution cost: 9358
+Balance: 0
+
+Epoch #15
+Left: 25654
+Right: 25655
+Solution cost: 9342
+Balance: 0
+
+Epoch #16
+Left: 25654
+Right: 25655
+Solution cost: 9338
+Balance: 0
+
+Epoch #17
+Left: 25654
+Right: 25655
+Solution cost: 9336
+Balance: 0
+
+Epoch #18
+Left: 25654
+Right: 25655
+Solution cost: 9329
+Balance: 0
+
+The last #epoch with the same cost
+Left: 25654
+Right: 25655
+Solution cost: 9329
+Balance: 0
+---------------------------------------
+Time of execution is 8161 milliseconds

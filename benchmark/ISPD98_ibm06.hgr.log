@@ -1,0 +1,158 @@
+Initial partition done: 16249 verteces left and 16249 vertices right
+Epoch #0
+Left: 16249
+Right: 16249
+Solution cost: 22342
+Balance: 0
+
+Epoch #1
+Left: 16249
+Right: 16249
+Solution cost: 9132
+Balance: 0
+
+Epoch #2
+Left: 16249
+Right: 16249
+Solution cost: 7322
+Balance: 0
+
+Epoch #3
+Left: 16249
+Right: 16249
+Solution cost: 6791
+Balance: 0
+
+Epoch #4
+Left: 16249
+Right: 16249
+Solution cost: 6546
+Balance: 0
+
+Epoch #5
+Left: 16249
+Right: 16249
+Solution cost: 6416
+Balance: 0
+
+Epoch #6
+Left: 16249
+Right: 16249
+Solution cost: 6317
+Balance: 0
+
+Epoch #7
+Left: 16249
+Right: 16249
+Solution cost: 6255
+Balance: 0
+
+Epoch #8
+Left: 16249
+Right: 16249
+Solution cost: 6184
+Balance: 0
+
+Epoch #9
+Left: 16249
+Right: 16249
+Solution cost: 6140
+Balance: 0
+
+Epoch #10
+Left: 16249
+Right: 16249
+Solution cost: 6134
+Balance: 0
+
+Epoch #11
+Left: 16249
+Right: 16249
+Solution cost: 6132
+Balance: 0
+
+Epoch #12
+Left: 16249
+Right: 16249
+Solution cost: 6094
+Balance: 0
+
+Epoch #13
+Left: 16249
+Right: 16249
+Solution cost: 6067
+Balance: 0
+
+Epoch #14
+Left: 16249
+Right: 16249
+Solution cost: 6053
+Balance: 0
+
+Epoch #15
+Left: 16249
+Right: 16249
+Solution cost: 6046
+Balance: 0
+
+Epoch #16
+Left: 16249
+Right: 16249
+Solution cost: 6041
+Balance: 0
+
+Epoch #17
+Left: 16249
+Right: 16249
+Solution cost: 6018
+Balance: 0
+
+Epoch #18
+Left: 16249
+Right: 16249
+Solution cost: 6010
+Balance: 0
+
+Epoch #19
+Left: 16249
+Right: 16249
+Solution cost: 6006
+Balance: 0
+
+Epoch #20
+Left: 16249
+Right: 16249
+Solution cost: 5988
+Balance: 0
+
+Epoch #21
+Left: 16249
+Right: 16249
+Solution cost: 5966
+Balance: 0
+
+Epoch #22
+Left: 16249
+Right: 16249
+Solution cost: 5961
+Balance: 0
+
+Epoch #23
+Left: 16249
+Right: 16249
+Solution cost: 5958
+Balance: 0
+
+Epoch #24
+Left: 16249
+Right: 16249
+Solution cost: 5957
+Balance: 0
+
+The last #epoch with the same cost
+Left: 16249
+Right: 16249
+Solution cost: 5957
+Balance: 0
+---------------------------------------
+Time of execution is 5864 milliseconds

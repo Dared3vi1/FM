@@ -1,0 +1,206 @@
+Initial partition done: 11568 verteces left and 11568 vertices right
+Epoch #0
+Left: 11568
+Right: 11568
+Solution cost: 17178
+Balance: 0
+
+Epoch #1
+Left: 11568
+Right: 11568
+Solution cost: 6430
+Balance: 0
+
+Epoch #2
+Left: 11568
+Right: 11568
+Solution cost: 5399
+Balance: 0
+
+Epoch #3
+Left: 11568
+Right: 11568
+Solution cost: 5060
+Balance: 0
+
+Epoch #4
+Left: 11568
+Right: 11568
+Solution cost: 4908
+Balance: 0
+
+Epoch #5
+Left: 11568
+Right: 11568
+Solution cost: 4871
+Balance: 0
+
+Epoch #6
+Left: 11568
+Right: 11568
+Solution cost: 4832
+Balance: 0
+
+Epoch #7
+Left: 11568
+Right: 11568
+Solution cost: 4802
+Balance: 0
+
+Epoch #8
+Left: 11568
+Right: 11568
+Solution cost: 4703
+Balance: 0
+
+Epoch #9
+Left: 11568
+Right: 11568
+Solution cost: 4689
+Balance: 0
+
+Epoch #10
+Left: 11568
+Right: 11568
+Solution cost: 4672
+Balance: 0
+
+Epoch #11
+Left: 11568
+Right: 11568
+Solution cost: 4657
+Balance: 0
+
+Epoch #12
+Left: 11568
+Right: 11568
+Solution cost: 4650
+Balance: 0
+
+Epoch #13
+Left: 11568
+Right: 11568
+Solution cost: 4641
+Balance: 0
+
+Epoch #14
+Left: 11568
+Right: 11568
+Solution cost: 4634
+Balance: 0
+
+Epoch #15
+Left: 11568
+Right: 11568
+Solution cost: 4630
+Balance: 0
+
+Epoch #16
+Left: 11568
+Right: 11568
+Solution cost: 4621
+Balance: 0
+
+Epoch #17
+Left: 11568
+Right: 11568
+Solution cost: 4614
+Balance: 0
+
+Epoch #18
+Left: 11568
+Right: 11568
+Solution cost: 4613
+Balance: 0
+
+Epoch #19
+Left: 11568
+Right: 11568
+Solution cost: 4611
+Balance: 0
+
+Epoch #20
+Left: 11568
+Right: 11568
+Solution cost: 4577
+Balance: 0
+
+Epoch #21
+Left: 11568
+Right: 11568
+Solution cost: 4486
+Balance: 0
+
+Epoch #22
+Left: 11568
+Right: 11568
+Solution cost: 4474
+Balance: 0
+
+Epoch #23
+Left: 11568
+Right: 11568
+Solution cost: 4461
+Balance: 0
+
+Epoch #24
+Left: 11568
+Right: 11568
+Solution cost: 4457
+Balance: 0
+
+Epoch #25
+Left: 11568
+Right: 11568
+Solution cost: 4454
+Balance: 0
+
+Epoch #26
+Left: 11568
+Right: 11568
+Solution cost: 4452
+Balance: 0
+
+Epoch #27
+Left: 11568
+Right: 11568
+Solution cost: 4451
+Balance: 0
+
+Epoch #28
+Left: 11568
+Right: 11568
+Solution cost: 4444
+Balance: 0
+
+Epoch #29
+Left: 11568
+Right: 11568
+Solution cost: 4432
+Balance: 0
+
+Epoch #30
+Left: 11568
+Right: 11568
+Solution cost: 4429
+Balance: 0
+
+Epoch #31
+Left: 11568
+Right: 11568
+Solution cost: 4426
+Balance: 0
+
+Epoch #32
+Left: 11568
+Right: 11568
+Solution cost: 4423
+Balance: 0
+
+The last #epoch with the same cost
+Left: 11568
+Right: 11568
+Solution cost: 4423
+Balance: 0
+---------------------------------------
+Time of execution is 5206 milliseconds
